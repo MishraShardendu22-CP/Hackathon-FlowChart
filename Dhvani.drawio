@@ -1,9 +1,104 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="igVRPugG5Wv7NKmF727j">
-    <mxGraphModel>
+    <mxGraphModel dx="11160" dy="6670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WMlHvNs0hS5G-Wxw-1Gu-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WMlHvNs0hS5G-Wxw-1Gu-6" target="WMlHvNs0hS5G-Wxw-1Gu-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMlHvNs0hS5G-Wxw-1Gu-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WMlHvNs0hS5G-Wxw-1Gu-6" target="WMlHvNs0hS5G-Wxw-1Gu-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMlHvNs0hS5G-Wxw-1Gu-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WMlHvNs0hS5G-Wxw-1Gu-6" target="WMlHvNs0hS5G-Wxw-1Gu-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMlHvNs0hS5G-Wxw-1Gu-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WMlHvNs0hS5G-Wxw-1Gu-6" target="WMlHvNs0hS5G-Wxw-1Gu-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-480" y="-50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMlHvNs0hS5G-Wxw-1Gu-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WMlHvNs0hS5G-Wxw-1Gu-6" target="WMlHvNs0hS5G-Wxw-1Gu-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMlHvNs0hS5G-Wxw-1Gu-6" value="Dhvani" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-345" y="-380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WMlHvNs0hS5G-Wxw-1Gu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WMlHvNs0hS5G-Wxw-1Gu-8" target="WMlHvNs0hS5G-Wxw-1Gu-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMlHvNs0hS5G-Wxw-1Gu-8" value="Blood Bank" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-345" y="-39" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WMlHvNs0hS5G-Wxw-1Gu-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WMlHvNs0hS5G-Wxw-1Gu-10" target="WMlHvNs0hS5G-Wxw-1Gu-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMlHvNs0hS5G-Wxw-1Gu-10" value="Stroke Management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="-39" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WMlHvNs0hS5G-Wxw-1Gu-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WMlHvNs0hS5G-Wxw-1Gu-12" target="WMlHvNs0hS5G-Wxw-1Gu-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMlHvNs0hS5G-Wxw-1Gu-12" value="Disease Detection" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-39" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WMlHvNs0hS5G-Wxw-1Gu-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WMlHvNs0hS5G-Wxw-1Gu-14" target="WMlHvNs0hS5G-Wxw-1Gu-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMlHvNs0hS5G-Wxw-1Gu-14" value="TB Detection and Analysis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="-39" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WMlHvNs0hS5G-Wxw-1Gu-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WMlHvNs0hS5G-Wxw-1Gu-16" target="WMlHvNs0hS5G-Wxw-1Gu-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMlHvNs0hS5G-Wxw-1Gu-16" value="Mobile - Health and Step Tracker&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-39" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WMlHvNs0hS5G-Wxw-1Gu-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WMlHvNs0hS5G-Wxw-1Gu-18" target="WMlHvNs0hS5G-Wxw-1Gu-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMlHvNs0hS5G-Wxw-1Gu-18" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 25px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Types of Users&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;&quot;&gt;(U)&amp;nbsp; User/Patient: Can ask for Blood, can donate blood, Can See There Reports (TB or Strokes), Can use disease Detection chat bot,&lt;/font&gt;&lt;/span&gt;&amp;nbsp;can use the health tracker application on mobile&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;(H) Hospitals:&amp;nbsp; Can Scan TB and Stroke Report , Can use disease detection chat bota to take&amp;nbsp; ideas and help doctors, Submit reports of a patient after analysis, manage blood inventory give or take blood&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;(A) Admin: can manage the entire website delete a user, delete a hospital etc everything just the maintainer of the website&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;Routes&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;/register - register all 3 types of users&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;/login - login all 3 types of users&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="-990" width="1590" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="WMlHvNs0hS5G-Wxw-1Gu-19" value="User/Patient -&#xa;Name&#xa;Email&#xa;Phone&#xa;Password&#xa;Blood Group&#xa;10 digit number (Could be used to link PAN in future) &#xa;&#xa;Admin - &#xa;Name &#xa;Email&#xa;Password " style="rounded=1;whiteSpace=wrap;align=left;fontSize=25;flipV=1;flipH=1;spacingTop=10;spacing=12;spacingBottom=10;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="-533.5" width="450" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="WMlHvNs0hS5G-Wxw-1Gu-20" value="Location Blood Camp -&#xa;Address &#xa;Date &#xa;Time &#xa;Contact Details&#xa;Hospital/NGO id&#xa;&#xa;Blood Donation Request -&#xa;Patient Id&#xa;Qty" style="rounded=1;whiteSpace=wrap;align=left;fontSize=25;flipV=1;flipH=1;spacingTop=10;spacing=12;spacingBottom=10;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+          <mxGeometry x="2149" y="35.5" width="450" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="WMlHvNs0hS5G-Wxw-1Gu-21" value="Hospital/NGO -&#xa;Name &#xa;Email &#xa;Phone &#xa;Address&#xa;Blood Inventory (Reference)&#xa;10 digit number (Could be Used to link PAN in future)" style="rounded=1;whiteSpace=wrap;align=left;fontSize=25;flipV=1;flipH=1;spacingTop=10;spacing=12;spacingBottom=10;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+          <mxGeometry x="2770" y="-533.5" width="450" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="WMlHvNs0hS5G-Wxw-1Gu-22" value="Reports -&#xa;Patient Id&#xa;Hospital Id &#xa;Report Ids&#xa;&#xa;Report - &#xa;Symptoms &#xa;Body Weight &#xa;Height &#xa;Summary of Report&#xa;" style="rounded=1;whiteSpace=wrap;align=left;fontSize=25;flipV=1;flipH=1;spacingTop=10;spacing=12;spacingBottom=10;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+          <mxGeometry x="2149" y="-533.5" width="450" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="WMlHvNs0hS5G-Wxw-1Gu-23" value="Blood Inventory -&#xa;A+_Qty&#xa;B+_Qty&#xa;AB+_Qty&#xa;O+_Qty&#xa;A-_Qty&#xa;B-_Qty&#xa;AB-_Qty&#xa;O-_Qty" style="rounded=1;whiteSpace=wrap;align=left;fontSize=25;flipV=1;flipH=1;spacingTop=10;spacing=12;spacingBottom=10;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="35.5" width="450" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="WMlHvNs0hS5G-Wxw-1Gu-24" value="Health Tracker Application -&#xa;User Id &#xa;Weight &#xa;Height &#xa;No of Steps in a Day&#xa;Burnt Calorie in a Day &#xa;&#xa;Weekly Food Schedule -&#xa;all 7 days " style="rounded=1;whiteSpace=wrap;align=left;fontSize=25;flipV=1;flipH=1;spacingTop=10;spacing=12;spacingBottom=10;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+          <mxGeometry x="2770" y="35.5" width="450" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="WMlHvNs0hS5G-Wxw-1Gu-25" value="" style="rounded=1;whiteSpace=wrap;align=left;fontSize=25;flipV=1;flipH=1;spacingTop=10;spacing=12;spacingBottom=10;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+          <mxGeometry x="3390" y="-524.5" width="450" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="WMlHvNs0hS5G-Wxw-1Gu-26" value="" style="rounded=1;whiteSpace=wrap;align=left;fontSize=25;flipV=1;flipH=1;spacingTop=10;spacing=12;spacingBottom=10;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+          <mxGeometry x="3390" y="35.5" width="450" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="WMlHvNs0hS5G-Wxw-1Gu-27" value="/send Report&amp;nbsp;&lt;div&gt;&amp;nbsp;/analyse report&amp;nbsp;&lt;/div&gt;&lt;div&gt;/get patient Reports&amp;nbsp;&lt;/div&gt;&lt;div&gt;/search all patient&lt;/div&gt;&lt;div&gt;/save report&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="-1620" y="340" width="515" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="WMlHvNs0hS5G-Wxw-1Gu-28" value="&lt;div&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;/send Report&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;/save report&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="340" width="515" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="WMlHvNs0hS5G-Wxw-1Gu-29" value="&lt;div&gt;&lt;span style=&quot;font-size: 30px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;/donate blood&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;/get donation location&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;/get and delete users&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;/get donation history&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;/get analytics&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;/get inventory&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-542" y="340" width="515" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="WMlHvNs0hS5G-Wxw-1Gu-30" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;/get edit weight&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;/get edit height&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;/get calorie&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;/get steps&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="340" width="515" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="WMlHvNs0hS5G-Wxw-1Gu-31" value="&lt;div&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;/chat&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="340" width="515" height="370" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
